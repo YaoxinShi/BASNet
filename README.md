@@ -56,3 +56,15 @@ month = {June},
 year = {2019}
 }
 ```
+
+
+===========
+
+Python:
+* pip install scikit-image
+
+Pre-trained model:
+* Download the pre-trained model [basnet.pth](https://drive.google.com/open?id=1s52ek_4YTDRt_EOkx1FS53u-vJa0c4nu) and put it into the dirctory 'saved_models/basnet_bsi/'
+
+Command line:
+* python basnet_test.py
